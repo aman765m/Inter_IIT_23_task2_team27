@@ -57,6 +57,8 @@ Now we are ready to get the position estimation from the ArUco marker. There is 
 https://github.com/niconielsen32/ComputerVision/tree/master/ArUco
 ## Running codes for task 2
 
+
+
 Run `hover_task2.py` to make the drone takeoff and hover for 10 seconds and then lands automatically. 
 
 Run `hover_and_rect.py` to make the drone follow a rectangular trajectory and land automatically. 
@@ -64,6 +66,11 @@ Run `hover_and_rect.py` to make the drone follow a rectangular trajectory and la
 Incase of emergency, pressing ctrl+C aborts the task and lands the drone safely
 
 Both code uses `quadCopter()` class for running a closed loop control, where feedback comes from camera using `camera_pose()` class.
+
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/91495412/216255794-9df53333-d641-4c47-9e89-2fa95c9c5f50.gif)
+
+
+
 ## Documentation
 
 Proper documentation of all the classes and methods related to task 2 is provided below.
