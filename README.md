@@ -18,6 +18,7 @@ The following libraries are required to be installed for the codes to work (make
   pip install opencv-contrib-python==4.7.0.68
 ```
 • numpy
+
 ```bash
   pip install numpy
 ```
@@ -26,8 +27,8 @@ The following libraries are required to be installed for the codes to work (make
 
 
 ## Camera calibration
+![WhatsApp Image 2023-02-02 at 12 08 33](https://user-images.githubusercontent.com/91495412/216253363-e8147849-0442-4089-bfd5-c72f4abc5990.jpeg)
 
-![alt text](https://drive.google.com/file/d/14Gu8GWCjHLgTmiwooFKJ5L-MdUXb70y5/view?usp=share_link)
 
  For getting the position estimation robustly using ArUco marker, it is necessary to have the intrinsic and extrinsic properties of camera. To do the calibration, a checker board pattern is needed. The size meintioned the code is 12X8 (counting the inner corners), where size of each square is 17.8mm.
 
@@ -39,6 +40,7 @@ The following libraries are required to be installed for the codes to work (make
 
  https://github.com/niconielsen32/ComputerVision/blob/master/cameraCalibration.py
  
+
 
 
 
