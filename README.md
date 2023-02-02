@@ -72,4 +72,4 @@ Proper documentation of all the classes and methods related to task 2 is provide
 
 For the documentation of socket communication and MSP (Multiwii Serial Protocol), follow the link below.
 
-[Task1 documentation](https://github.com/aman765m/Inter_IIT_23_task2_team27/blob/master/Task2_code_documentation.pdf)
+[Task1 documentation](https://github.com/aman765m/Inter_IIT_23_task1_team27/blob/master/Task1_code_documentation.pdf)
